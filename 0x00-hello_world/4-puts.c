@@ -1,9 +1,8 @@
 #include <stdio.h>
 /**
- *main - entry point
- *Description - to print exactly the inputed text
+ * main - main entry point
  *
- *return - always return 0 (success)
+ * Return: always return 0 (success)
  */
 int main(void)
 {
