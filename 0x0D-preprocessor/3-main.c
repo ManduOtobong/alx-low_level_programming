@@ -11,9 +11,10 @@ int main(void)
 {
 	int i;
 	int j;
+	FILE *stream = stdout;
 
 	i = ABS(-98) * 10;
 	j = ABS(98) * 10;
-	printf("%d, %d\n", i, j);
+	fprintf(stream, "%d, %d\n", i, j);
 	return (0);
 }
