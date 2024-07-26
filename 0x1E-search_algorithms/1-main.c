@@ -7,7 +7,7 @@
  *
  * Return: Always EXIT_SUCCESS
  */
-int main(void)	
+int main(void)
 {
 	int array[] = {
 	0, 1, 2, 3, 4, 5, 6, 7, 8, 9
